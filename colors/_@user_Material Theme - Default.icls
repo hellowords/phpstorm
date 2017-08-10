@@ -4,7 +4,7 @@
     <property name="created">2017-08-10T13:09:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-08-10T13:43:33</property>
+    <property name="modified">2017-08-10T15:47:42</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -45,7 +45,7 @@
     <option name="INFORMATION_HINT" value="263238" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
-    <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
+    <option name="MODIFIED_LINES_COLOR" value="294124" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="QUESTION_HINT" value="263238" />
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
